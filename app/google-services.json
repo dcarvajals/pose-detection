@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579735822498",
+    "project_id": "pose-detection-ddb47",
+    "storage_bucket": "pose-detection-ddb47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579735822498:android:bd3a48476ef42d8cbbf7fb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579735822498-73rr0g8mui8taki1uun1fui6crq9o4k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8jHNR2-93E18WQna0segCRITD3Irap4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579735822498-73rr0g8mui8taki1uun1fui6crq9o4k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
